@@ -81,4 +81,11 @@ Thank you for your engaging course material and for making web data accessible a
 **Andrew Tite** <br/>
 📧 andrewtite@gmail.com <br/>
 🔗 https://github.com/andrewtite <br/>
-📄 This project is licensed under the MIT License. See the LICENSE file for details.
+<a href="[https://www.linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/andrew-tite/)" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="18" /> https://www.linkedin.com/in/andrew-tite/
+</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/andrew-tite/))
+
+## 📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
