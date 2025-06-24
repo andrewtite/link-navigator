@@ -51,11 +51,11 @@ This will:
 
 ### 📂 Example Output
 
-Retrieving: http://example.com
-Retrieving: http://example.com/page3
+Retrieving: http://example.com <br/>
+Retrieving: http://example.com/page3 <br/>
 Retrieving: http://example.com/page3/link3
 
-### ⚠️ Notes
+## ⚠️ Notes
 
 - Always check a website’s robots.txt before scraping.
 - This script is for educational use only.
